@@ -18,6 +18,8 @@ import com.wefour.property_listing_service.repo.PropertyRepo;
 @Service
 public class PropertyService {
 	
+	//new service created and commited with the git login
+	
 	@Autowired
 	PropertyRepo propertyRepo;
 	
